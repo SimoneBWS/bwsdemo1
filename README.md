@@ -1,2 +1,2 @@
 # bwsdemo1
-only forvtest
+only for test
