@@ -8,5 +8,9 @@ namespace ConsoleApplication1
 {
     class Class1
     {
+        public Class1()
+        {
+            // todo...
+        }
     }
 }
