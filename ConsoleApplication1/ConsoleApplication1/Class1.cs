@@ -12,5 +12,10 @@ namespace ConsoleApplication1
         {
             // todo...
         }
+
+        public string Cmd1(int v)
+        {
+            return v.ToString();
+        }
     }
 }
