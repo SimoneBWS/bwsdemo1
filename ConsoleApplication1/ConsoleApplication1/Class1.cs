@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             // todo...
         }
 
+		// simobrg...
         public string Cmd1(int v1, int v2)
         {
             int r = v1 + v2;
