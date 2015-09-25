@@ -13,9 +13,10 @@ namespace ConsoleApplication1
             // todo...
         }
 
-        public string Cmd1(int v)
+        public string Cmd1(int v1, int v2)
         {
-            return v.ToString();
+            int r = v1 + v2;
+            return r.ToString();
         }
     }
 }
